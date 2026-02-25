@@ -2,7 +2,7 @@ use pyo3::prelude::*;
 
 #[pyfunction]
 fn hello_from_bin() -> String {
-    "Hello from memu!".to_string()
+    "Hello from rust!".to_string()
 }
 
 #[pymodule]
