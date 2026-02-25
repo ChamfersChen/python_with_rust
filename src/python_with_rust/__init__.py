@@ -1,0 +1,1 @@
+from python_with_rust._core import hello_from_bin
